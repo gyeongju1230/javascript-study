@@ -2,7 +2,7 @@
 
 ### 목차
 
-1. [자바스크립트와 ECMAScript](#자바스크립트와-ecmascript)
+1. [자바스크립트와 ECMAScript](#자바스크립트와-ecmascript-1)
 
 
 ### 자바스크립트와 ECMAScript
